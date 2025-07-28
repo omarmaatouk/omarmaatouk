@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/SSRS-%23FF6C37?style=flat&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-003B57?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-0A192F?style=flat&logo=amazon-redshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 </p>
 
 
