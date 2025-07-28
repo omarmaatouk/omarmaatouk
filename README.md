@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Maatouk</h1>
-<h3 align="center">Data Analyst | BI Developer | Data Engineer</h3>
+<h3 align="center">BI Developer | Data Analyst | Data Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+BI+Developer+%7C+SQL+%7C+SSIS+%7C+Power+BI+%7C+Python;Always+learning+new+things!" />
@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 💼 I’m passionate about transforming data into insights and dashboards.
-- 🎯 Experienced in: SQL, DWH concepts, DB Concepts SSIS, SSAS, Power BI, Tableau, Excel.
+- 🎯 Experienced in:  Power BI, Tableau, Excel, Python, SQL, DWH concepts, DB Concepts, SSIS, SSAS, SSRS.
 - 📫 Reach me: **omarmatook1@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omar-maatouk-659bb7229)
 
