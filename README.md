@@ -33,14 +33,14 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SSIS-%23239120?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSAS-%230074C2?style=flat&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSRS-%23FF6C37?style=flat&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-%23239120?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSAS-%230074C2?style=flat&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-%23FF6C37?style=flat&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-003B57?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Warehouse-0A192F?style=flat&logo=amazon-redshift&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
