@@ -28,7 +28,6 @@
 
 ---
 
-### 🧰 Tech Stack
 
 ### 🧰 Tech Stack
 
