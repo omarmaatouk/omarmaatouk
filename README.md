@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 💼 I’m passionate about transforming data into insights and dashboards.
-- 🎯 Experienced in: SQL, DWH concepts, SSIS, SSAS, Power BI.
+- 🎯 Experienced in: SQL, DWH concepts, DB Concepts SSIS, SSAS, Power BI, Tableau, Excel.
 - 📫 Reach me: **omarmatook1@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omar-maatouk-659bb7229)
 
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/SSIS-%23239120?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SSAS-%230074C2?style=flat&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/SSRS-%23FF6C37?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
